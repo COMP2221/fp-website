@@ -1,4 +1,4 @@
-baseURL = 'https://teaching.wence.uk/comp2221/'
+baseURL = 'FIXME: Put correct link in here'
 DefaultContentLanguage = 'en'
 Language = 'en'
 title = 'COMP2221 – Functional Programming'
@@ -36,7 +36,7 @@ BookSearch = false
 BookComments = false
 BookToc = true
 BookLogo = 'logo.svg'
-BookRepo = 'https://github.com/wenceorg/comp2221'
+BookRepo = 'https://github.com/comp2221/fp-website'
 ModulePage = 'https://www.dur.ac.uk/faculty.handbook/module_description/?year=2021&module_code=COMP2221'
 BookEditPath = 'edit/main'
 contentDir = 'site/content'
