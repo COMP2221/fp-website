@@ -1,4 +1,4 @@
-baseURL = 'FIXME: Put correct link in here'
+baseURL = 'https://comp2221.github.io/fp-website/'
 DefaultContentLanguage = 'en'
 Language = 'en'
 title = 'COMP2221 – Functional Programming'
