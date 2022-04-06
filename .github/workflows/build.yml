@@ -37,6 +37,5 @@ jobs:
         keep_history: false
         allow_empty_commit: false
         jekyll: false
-        fqdn: comp2221.github.io/fp-website/
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
