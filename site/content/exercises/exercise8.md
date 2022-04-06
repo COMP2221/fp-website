@@ -6,4 +6,4 @@ katex: true
 
 # Mock Exam
 
-Please consider the mock exam and answers in advance to the practical sessions of Week 41.
+Please consider the mock exam and sample solution in advance to the practical sessions of Week 41.
