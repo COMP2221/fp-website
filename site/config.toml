@@ -1,4 +1,4 @@
-baseURL = 'https://teaching.morgenstern.uk'
+baseURL = 'https://teaching.morgenstern.uk/fp-website'
 DefaultContentLanguage = 'en'
 Language = 'en'
 title = 'COMP2221 – Functional Programming'
