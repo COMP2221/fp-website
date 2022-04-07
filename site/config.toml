@@ -1,4 +1,4 @@
-baseURL = 'https://comp2221.github.io/fp-website/'
+baseURL = 'https://teaching.morgenstern.uk'
 DefaultContentLanguage = 'en'
 Language = 'en'
 title = 'COMP2221 – Functional Programming'
