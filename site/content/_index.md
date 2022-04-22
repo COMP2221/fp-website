@@ -19,8 +19,7 @@ by other (perhaps more mainstream) languages, and why you might care.
 
 ## Course organisation
 
-The course will run over five weeks on Mondays (4pm) and Fridays (1pm)
-starting on 10th January 2022 in D110 (Archaeology).
+The revision lecture will take place on Monday, 25/04/22, in D/PH8 (Physics) at 4 pm.
 
 {{< hint warning >}}
 
@@ -31,11 +30,11 @@ January), the lectures are **online only**.
 
 {{< hint info >}}
 
-You can attend remotely over [zoom](https://durhamuniversity.zoom.us/j/94737897412?pwd=ZTFyeG52SUVCK25pZFVuczhDdEVPQT09), and will need to be
+You can attend remotely over [zoom](https://durhamuniversity.zoom.us/j/94501248637?pwd=TmRRME4rbzRON3cyODNwc1BJT2xudz09), and will need to be
 authenticated with your Durham account.
 
-Meeting ID: 947 3789 7412  
-Passcode: 756154
+Meeting ID: 945 0124 8637   
+Passcode: 422599
 {{< /hint >}}
 
 ### Running code
