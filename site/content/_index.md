@@ -21,10 +21,6 @@ by other (perhaps more mainstream) languages, and why you might care.
 
 The revision lecture will take place on Monday, 25/04/22, in D/PH8 (Physics) at 4pm.
 
-
-{{< hint warning >}}
-
-{{< /hint >}}
 {{< hint info >}}
 
 You can attend remotely over [zoom](https://durhamuniversity.zoom.us/j/94501248637?pwd=TmRRME4rbzRON3cyODNwc1BJT2xudz09), and will need to be
