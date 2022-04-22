@@ -19,12 +19,7 @@ by other (perhaps more mainstream) languages, and why you might care.
 
 ## Course organisation
 
-The revision lecture will take place on Monday, 25/04/22, in D/PH8 (Physics) at 4 pm.
-
-{{< hint warning >}}
-
-In the first two weeks of term (weeks beginning 10th and 17th
-January), the lectures are **online only**.
+The revision lecture will take place on Monday, 25/04/22, in D/PH8 (Physics) at 4pm.
 
 {{< /hint >}}
 
