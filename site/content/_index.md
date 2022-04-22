@@ -39,34 +39,25 @@ repository]({{< repo >}}) in `./code/lectures/2021-22/`.
 
 ### Practical sessions
 
-There are five weeks of practical sessions which will start in the
-first week of term. We'll cover the [exercises]({{< ref
-"exercises.md" >}}), and any other queries you might have.
-
-{{< hint warning >}}
-
-In the first week of term (week beginning 10th January), practicals
-are **online only**.
-
-{{< /hint >}}
-
+The practical sessions of term 2 covered the [exercises]({{< ref
+"exercises.md" >}}). The remaining practical sessions of term 3 cover the model exam and answers and take place as follows:
 
 | Date/time          | Location |
 |--------------------|----------|
 | Monday 2pm--4pm    | E216A    |
 | Thursday 11am--1pm | RH025    |
 | Friday 2pm--4pm    | RH025    |
-| Friday 2pm--4pm    | RH025    |
+| Friday 4pm--6pm    | RH025    |
 
 
 {{< hint info >}}
 
 You can attend remotely over
-[zoom](https://durhamuniversity.zoom.us/j/99562589739?pwd=K3RmekY3aUJKUStaenN6VUxBMmlRUT09),
+[zoom](https://durhamuniversity.zoom.us/j/99987053815?pwd=OXBKeUp1ZDNMYmdTdHNaczM4UFJaQT09),
 and will need to be logged in with your Durham account.
 
-Meeting ID: 995 6258 9739  
-Passcode: 283067
+Meeting ID: 999 8705 3815  
+Passcode: 361905
 
 {{< /hint >}}
 
