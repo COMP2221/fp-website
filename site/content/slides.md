@@ -260,3 +260,6 @@ account), and some commentary.
   for announcements via ULTRA.
   
   Thanks again everyone, and enjoy!
+  
+- 2022-04-25: [revision slides]({{< static-ref
+  "lectures/2021-22/revision.pdf" >}})
