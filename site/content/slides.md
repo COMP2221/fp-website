@@ -261,5 +261,4 @@ account), and some commentary.
   
   Thanks again everyone, and enjoy!
   
-- 2022-04-25: [revision slides]({{< static-ref
-  "lectures/2021-22/revision.pdf" >}})
+- 2022-04-25: [Annotated slides]({{< static-ref "slides/2021-22/revision.pdf" >}})
