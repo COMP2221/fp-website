@@ -261,4 +261,4 @@ account), and some commentary.
   
   Thanks again everyone, and enjoy!
   
-- 2022-04-25: [Revision slides]({{< static-ref "slides/2021-22/revision.pdf" >}})
+- 2022-04-25: [Revision slides]({{< static-ref "slides/2021-22/revision.pdf" >}}), [video](https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=799aee2d-0899-4846-9466-ae82010f3005)
