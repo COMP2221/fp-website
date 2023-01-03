@@ -19,6 +19,8 @@ by other (perhaps more mainstream) languages, and why you might care.
 
 ## Course organisation
 
+The course starts on Monday, the 9th of January 2023, at 3 pm in TLC033.
+
 <!--### Running code
 
 I will do a bunch of live coding during the lectures. You're
@@ -74,7 +76,7 @@ publicly visible.
 
 ### Office hours
 
-Open office hours (no appointment needed) will be advertised here.
+Open office hours (no appointment needed) take place during term time on Wednesdays from 11:30 am to 12:30 pm in MCS 2025.
 
 If you need to get in touch some other time, please [email
 me](mailto:laura.morgenstern@durham.ac.uk) to arrange a meeting.
