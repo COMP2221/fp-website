@@ -1,7 +1,7 @@
 Source repository for the functional programming part of
 [COMP2221](https://www.dur.ac.uk/faculty.handbook/module_description/?year=2021&module_code=COMP2221).
 
-FIXME: Add link to hosted material once it is up and running
+The hosted material can be found at [https://comp2221.github.io/fp-website/](https://comp2221.github.io/fp-website/)
 
 The .github/workflows/build.yml shows how the material is built. You will need [hugo](https://gohugo.io).
 
