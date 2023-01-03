@@ -19,29 +19,41 @@ by other (perhaps more mainstream) languages, and why you might care.
 
 ## Course organisation
 
-The revision lecture took place on Monday, 25/04/22, in D/PH8 (Physics) at 4pm.
-
-### Running code
+<!--### Running code
 
 I will do a bunch of live coding during the lectures. You're
 encouraged to play around with things afterwards to make sure you
 understand stuff. All of the code will appear in the [course
-repository]({{< repo >}}) in `./code/lectures/2021-22/`.
+repository]({{< repo >}}) in `./code/lectures/2021-22/`.-->
 
-### Practical sessions
+## Lectures
 
-The practical sessions of term 2 covered the [exercises]({{< ref
-"exercises.md" >}}). The remaining practical sessions of term 3 cover the model exam and answers and take place as follows:
+Lectures take place in the first half of term 2 as follows:
 
 | Date/time          | Location |
 |--------------------|----------|
-| Monday 2pm--4pm    | E216A    |
-| Thursday 11am--1pm | RH025    |
-| Friday 2pm--4pm    | RH025    |
+| Monday 3pm--4pm    | TLC033   |
+| Friday 1pm--2pm    | W103     |
+
+Further, there is a revision lecture in the first week of term 3.
+
+### Practical sessions
+
+Practical sessions start in the second week of term 2.
+The practical sessions cover the [exercises]({{< ref
+"exercises.md" >}}) and take place as follows:
+
+| Date/time          | Location |
+|--------------------|----------|
+| Monday 4pm--6pm    | CC0007    |
+| Wednesday 9am--11am | RH025    |
+| Thursday 9am--11am    | RH025    |
+| Thursday 4pm--6pm    | RH025    |
 | Friday 4pm--6pm    | RH025    |
 
+Further practical sessions take place in the first week of term 3 to cover the content of the mock exam.
 
-{{< hint info >}}
+<!--{{< hint info >}}
 
 You can attend remotely over
 [zoom](https://durhamuniversity.zoom.us/j/99987053815?pwd=OXBKeUp1ZDNMYmdTdHNaczM4UFJaQT09),
@@ -50,7 +62,7 @@ and will need to be logged in with your Durham account.
 Meeting ID: 999 8705 3815  
 Passcode: 361905
 
-{{< /hint >}}
+{{< /hint >}}-->
 
 ### Discussion forum
 
@@ -65,18 +77,13 @@ publicly visible.
 Open office hours (no appointment needed) will be advertised here.
 
 If you need to get in touch some other time, please [email
-me](mailto:lawrence.mitchell@durham.ac.uk) to arrange something.
+me](mailto:laura.morgenstern@durham.ac.uk) to arrange a meeting.
 
 ### Other feedback routes
 
 Feel free to ask questions in the live sessions if you want, I will
 try and get to them all. You can of course, always [email
-me](mailto:lawrence.mitchell@durham.ac.uk). Finally, I've set up a
-[feedback submission
-form](https://forms.office.com/Pages/ResponsePage.aspx?id=i9hQcmhLKUW-RNWaLYpvlH6j_ORl2wpMpbvCR6TejgNUNU5HMkk0TDFGQTNKMTRTVTJFRlNCSjQwNi4u)
-(which records responses anonymously, though you'll need to be signed
-in with you Durham account) for you to optionally comment on things
-that were good, bad, or you didn't understand about the lectures.
+me](mailto:laura.morgenstern@durham.ac.uk). 
 
 ## Further resources
 
