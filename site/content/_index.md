@@ -104,6 +104,6 @@ The [Haskell wiki](https://wiki.haskell.org/) links to a number of
 A slightly cutesy, but nonetheless well-explained, introduction is
 provided by [learn you a Haskell](http://learnyouahaskell.com).
 
-##Acknowledgments
+## Acknowledgments
 
 The material on this website, and the website itself, were developed by Lawrence Mitchell, who delivered the Functional Programming course at Durham University in 2021 and 2022. Currently, the website is maintained by Laura Morgenstern.
