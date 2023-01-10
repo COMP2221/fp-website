@@ -10,8 +10,8 @@ As the course progresses, I'll add the annotated slides and live code
 examples, along with links to the videos (accessible with a Durham
 account) to this page.
 
-- 2022-01-10: [Annotated slides]({{< static-ref
-  "slides/2021-22/Lec01.pdf" >}}),
+- 2023-01-09: [Slides]({{< static-ref
+  "slides/2022-23/Lec01.pdf" >}}),
   [video](https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=cdb1e9c6-f338-4f60-acdb-af820094eda4), [code]({{< code-ref "lectures/2022-23/Lec01.hs" >}})
   
   We got most of the way through the slides, and then did some live
