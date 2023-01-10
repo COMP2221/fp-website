@@ -19,5 +19,5 @@ account) to this page.
   bit of Haskell syntax that we will consider in more detail as the course
   progresses.
   
-  Please setup your Haskell programming environment (GHC + an editor/IDE of your choice), try some of the examples from the lecture and try to work your way throuhg the first exercise before the practical sessions start next week.
+  Please setup your Haskell programming environment (GHC + an editor/IDE of your choice), try some of the examples from the lecture and try to work your way through the first exercise before the practical sessions start next week.
 
