@@ -20,4 +20,16 @@ account) to this page.
   progresses.
   
   Please setup your Haskell programming environment (GHC + an editor/IDE of your choice), try some of the examples from the lecture and try to work your way through the first exercise before the practical sessions start next week.
+  
+  - 2023-01-13: [Slides]({{< static-ref
+  "slides/2022-23/Lec02.pdf" >}}),
+  [video](https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ec73c077-ce8f-4ea2-ac90-af8800948d14), [code]({{< code-ref "lectures/2022-23/Lec02.hs" >}})
+  
+  We got most of the way through the slides, considered basic types, tuples and lists in Haskell. Further, we saw hout to define functions with multiple arguments by packaging all arguments into a tuple or list.
+  
+  - 2023-01-16: [Slides]({{< static-ref
+  "slides/2022-23/Lec03.pdf" >}}),
+  [video](https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=55994d27-a6ed-4ca9-bd55-af890094d961), [code]({{< code-ref "lectures/2022-23/Lec03.hs" >}})
+  We considered currying as an alternative to defining n-ary functions via tuples or lists, we compared curried and uncurried versions of the same functions during live coding. Further, we introduced lambda expressions and the infix notation.
+
 
