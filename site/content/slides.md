@@ -33,13 +33,13 @@ account) to this page.
   
   We considered currying as an alternative to defining n-ary functions via tuples or lists, we compared curried and uncurried versions of the same functions during live coding. Further, we introduced lambda expressions and the infix notation.
   
-  - 2023-01-20: [Slides]({{< static-ref
+- 2023-01-20: [Slides]({{< static-ref
   "slides/2022-23/Lec04.pdf" >}}),
   [video](https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1e4a90d5-39cb-4b4c-b8c7-af8f009469af), [code]({{< code-ref "lectures/2022-23/Lec04.hs" >}})
   
   We discussed list comprehensions in conjunction with generators and guard expressions. Further, we considered pattern matching and its limitations. We introduced the types of polymorphism and will continue there next time.
   
-    - 2023-01-23: [Slides]({{< static-ref
+- 2023-01-23: [Slides]({{< static-ref
   "slides/2022-23/Lec05.pdf" >}}),
   [video](https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c9625930-9354-438c-ad5f-af9000966d6b)
   
