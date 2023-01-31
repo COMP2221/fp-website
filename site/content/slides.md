@@ -44,7 +44,18 @@ account) to this page.
   [video](https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c9625930-9354-438c-ad5f-af9000966d6b)
   
   We continued with polymorphism and compared Haskell's parameteric polymorphism to the types of polymorphism in other languages. Further, we considered the declaration and definition of custom data types, and how they relate to pattern matching and recursion. We did not do any live coding this time around since the slides are quite code heavy already.
-
+  
+- 2023-01-27: [Slides]({{< static-ref
+  "slides/2022-23/Lec06.pdf" >}}),
+  [video](https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=bc1539da-4907-4331-ac48-af960094809d)
+  
+  We considered algebraic data types and their pros and cons in comparison to classes in object-oriented languages. We learned a strcutural approach to write recursive functions and discussed different types of recursion (linear vs. multi, direct vs. indirect, tail vs. non-tail).
+  
+- 2023-01-30: [Slides]({{< static-ref
+  "slides/2022-23/Lec07.pdf" >}}),
+  [video](https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=eaa9852d-6e86-43df-8ca1-af90009579dc)
+  
+ We started out by discussing the complexity of two recursive versions of the reverse function, and saw how a tail-recursive approach can lead to a more efficient implementation. Afterwards, we introduced the idea of higher order functions and saw some examples (map, filter, any, all, dropWhile, takeWhile, ...). We learned how to model function compostion in Haskell with the (.) operator. Having recapped the concept and usage of type classes (e.g. Eq, Num, Ord), we discussed how they model generic patterns of computation. We finished by writing Functor instances for custom data types and by considering the functor laws.
 
 
 
