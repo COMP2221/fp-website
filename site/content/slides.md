@@ -54,8 +54,7 @@ account) to this page.
 - 2023-01-30: [Slides]({{< static-ref
   "slides/2022-23/Lec07.pdf" >}}),
   [video](https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=eaa9852d-6e86-43df-8ca1-af90009579dc)
-  
- We started out by discussing the complexity of two recursive versions of the reverse function, and saw how a tail-recursive approach can lead to a more efficient implementation. Afterwards, we introduced the idea of higher order functions and saw some examples (map, filter, any, all, dropWhile, takeWhile, ...). We learned how to model function compostion in Haskell with the (.) operator. Having recapped the concept and usage of type classes (e.g. Eq, Num, Ord), we discussed how they model generic patterns of computation. We finished by writing Functor instances for custom data types and by considering the functor laws.
+  We started out by discussing the complexity of two recursive versions of the reverse function, and saw how a tail-recursive approach can lead to a more efficient implementation. Afterwards, we introduced the idea of higher order functions and saw some examples (map, filter, any, all, dropWhile, takeWhile, ...). We learned how to model function compostion in Haskell with the (.) operator. Having recapped the concept and usage of type classes (e.g. Eq, Num, Ord), we discussed how they model generic patterns of computation. We finished by writing Functor instances for custom data types and by considering the functor laws.
 
 
 
