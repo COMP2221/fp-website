@@ -55,7 +55,17 @@ account) to this page.
   "slides/2022-23/Lec07.pdf" >}}),
   [video](https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=eaa9852d-6e86-43df-8ca1-af90009579dc)
   We started out by discussing the complexity of two recursive versions of the reverse function, and saw how a tail-recursive approach can lead to a more efficient implementation. Afterwards, we introduced the idea of higher order functions and saw some examples (map, filter, any, all, dropWhile, takeWhile, ...). We learned how to model function compostion in Haskell with the (.) operator. Having recapped the concept and usage of type classes (e.g. Eq, Num, Ord), we discussed how they model generic patterns of computation. We finished by writing Functor instances for custom data types and by considering the functor laws.
-
-
+  
+- 2023-02-03: [Slides]({{< static-ref
+  "slides/2022-23/Lec08.pdf" >}}),
+  [video](https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=449a094b-3bc5-4f1a-adfb-af9d00a4d305)
+  
+  We considered how Haskell evaluates expressions by means of lazy evaluation and expression graphs. We learned that lazy evaluation enables working with infinte data structures and made a start to yet another family of higher order functions: folds. 
+  
+- 2023-02-06: [Slides]({{< static-ref
+  "slides/2022-23/Lec09v2.pdf" >}}),
+  [video](https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=34e22c72-8b21-4bd1-ad9b-af9e00a4d25d),[notes]({{< static-ref "slides/2022-23/beta_reduction_examples.jpg" >}})
+  
+ We continued with the idea of folds, and saw how `foldr` and `foldl` are implemented recursively. We learned that folds model the reduction principle and that the `Foldable` type class provides a generalization over this principle. Further, we introduced the syntax of the lambda calculus and saw how lambda expression can be evaluated by means of beta reductions.
 
 
