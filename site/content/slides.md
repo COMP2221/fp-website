@@ -72,7 +72,7 @@ account) to this page.
   "slides/2022-23/Lec10.pdf" >}}),
   [video](https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a1241441-a2c2-4554-b4a7-afa4009594d2)
   
-  We did a recap of the topics we covered in the course, mainly, types, functions, lists, recursion, evaluation strategies and the lambda calculus. Further, I briefly outlined the nature of the summer exam and provided an overview of topics from past exams that moght be relevant for you. In general, yoi can find past CS exams [here](https://durhamuniversity.sharepoint.com/teams/exampapers/Computer%20Science/Forms/AllItems.aspx).
+  We did a recap of the topics we covered in the course, mainly, types, functions, lists, recursion, evaluation strategies and the lambda calculus. Further, I briefly outlined the nature of the summer exam and provided an overview of topics from past exams that moght be relevant for you. In general, you can find past CS exams [here](https://durhamuniversity.sharepoint.com/teams/exampapers/Computer%20Science/Forms/AllItems.aspx).
 
 
 
