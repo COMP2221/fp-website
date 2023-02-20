@@ -67,5 +67,12 @@ account) to this page.
   [video](https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=34e22c72-8b21-4bd1-ad9b-af9e00a4d25d),[notes]({{< static-ref "slides/2022-23/beta_reduction_examples.jpg" >}})
   
   We continued with the idea of folds, and saw how `foldr` and `foldl` are implemented recursively. Thanks to you spotting a mistake in the evaluation order of the folding example (Slide 4), I just updated the slides based on the definitions of `foldr` and `foldl` used by GHC. We learned that folds model the reduction principle and that the `Foldable` type class provides a generalization over this principle. Further, we introduced the syntax of the lambda calculus and saw how lambda expression can be evaluated by means of beta reductions.
+  
+  - 2023-02-10: [Slides]({{< static-ref
+  "slides/2022-23/Lec10.pdf" >}}),
+  [video](https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a1241441-a2c2-4554-b4a7-afa4009594d2)
+  
+  We did a recap of the topics we covered in the course, mainly, types, functions, lists, recursion, evaluation strategies and the lambda calculus. Further, I briefly outlined the nature of the summer exam and provided an overview of topics from past exams that moght be relevant for you. In general, yoi can find past CS exams [here](https://durhamuniversity.sharepoint.com/teams/exampapers/Computer%20Science/Forms/AllItems.aspx).
+
 
 
