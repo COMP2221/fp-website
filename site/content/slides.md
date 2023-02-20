@@ -68,7 +68,7 @@ account) to this page.
   
   We continued with the idea of folds, and saw how `foldr` and `foldl` are implemented recursively. Thanks to you spotting a mistake in the evaluation order of the folding example (Slide 4), I just updated the slides based on the definitions of `foldr` and `foldl` used by GHC. We learned that folds model the reduction principle and that the `Foldable` type class provides a generalization over this principle. Further, we introduced the syntax of the lambda calculus and saw how lambda expression can be evaluated by means of beta reductions.
   
-  - 2023-02-10: [Slides]({{< static-ref
+- 2023-02-10: [Slides]({{< static-ref
   "slides/2022-23/Lec10.pdf" >}}),
   [video](https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a1241441-a2c2-4554-b4a7-afa4009594d2)
   
