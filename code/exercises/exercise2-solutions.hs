@@ -101,13 +101,13 @@ twice f x = f (f x)
 -- penultimate element. This will error if the list does not contain
 -- two or more elements.
 butlast :: [a] -> a
-butlast xs = head (reverse (tail xs))
+butlast xs = head (tail (reverse xs))
 
 -- We can also write this in pointfree style
 -- See https://github.com/wenceorg/comp2221/discussions/14 for more
 -- information
 butlast' :: [a] -> a
-butlast' = head . reverse . tail
+butlast' = head . tail . reverse
 
 -- We were also asked to write this with pattern matching and
 -- recursion, let's have a go
