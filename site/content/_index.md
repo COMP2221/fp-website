@@ -77,9 +77,9 @@ publicly visible.
 
 ### Office hours
 
-Open office hours (no appointment needed) take place during term time on Wednesdays from 12 noon to 1 pm in MCS 2027.
+<!--Open office hours (no appointment needed) take place during term time on Wednesdays from 12 noon to 1 pm in MCS 2027.-->
 
-If you need to get in touch some other time, please [email
+Please [email
 me](mailto:laura.morgenstern@durham.ac.uk) to arrange a meeting.
 
 ### Other feedback routes
