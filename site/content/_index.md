@@ -35,7 +35,7 @@ Lectures take place in the first half of term 2 as follows:
 | Date/time          | Location |
 |--------------------|----------|
 | Monday 3pm--4pm    | PH8      |
-| Friday 10am--11am  | W103     |
+| Friday 10am--11am  | PH8      |
 
 Furthermore, there is a revision lecture in the first week of term 3.
 
