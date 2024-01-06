@@ -19,14 +19,14 @@ by other (perhaps more mainstream) languages, and why you might care.
 
 ## Course organisation
 
-The course starts on Monday, the 9th of January 2023, at 3 pm in TLC033.
+The course starts on Monday, the 8th of January 2024, at 3 pm in PH8.
 
 <!--### Running code
 
 I will do a bunch of live coding during the lectures. You're
 encouraged to play around with things afterwards to make sure you
-understand stuff. All of the code will appear in the [course
-repository]({{< repo >}}) in `./code/lectures/2021-22/`.-->
+understand them. All of the code will appear in the [course
+repository]({{< repo >}}) in `./code/lectures/2023-24/`.-->
 
 ## Lectures
 
@@ -34,10 +34,10 @@ Lectures take place in the first half of term 2 as follows:
 
 | Date/time          | Location |
 |--------------------|----------|
-| Monday 3pm--4pm    | TLC033   |
-| Friday 1pm--2pm    | W103     |
+| Monday 3pm--4pm    | PH8      |
+| Friday 10am--11am  | W103     |
 
-Further, there is a revision lecture in the first week of term 3.
+Furthermore, there is a revision lecture in the first week of term 3.
 
 ### Practical sessions
 
@@ -47,11 +47,12 @@ The practical sessions cover the [exercises]({{< ref
 
 | Date/time          | Location |
 |--------------------|----------|
-| Monday 4pm--6pm    | CC0007    |
-| Wednesday 9am--11am | RH025    |
-| Thursday 9am--11am    | RH025    |
-| Thursday 4pm--6pm    | RH025    |
-| Friday 4pm--6pm    | RH025    |
+| Monday 1pm--3pm    | CB-LG001 |
+| Tuesday 11am--1pm  | CB-LG001 |
+| Tuesday 11am--1pm  | RH-0003  |
+| Tuesday 4pm--6pm   | RH-0003  |
+| Friday 4pm--6pm    | RH-0003  |
+
 
 Further practical sessions take place in the first week of term 3 to cover the content of the mock exam.
 
@@ -76,7 +77,7 @@ publicly visible.
 
 ### Office hours
 
-Open office hours (no appointment needed) take place during term time on Wednesdays from 11:30 am to 12:30 pm in MCS 2025.
+Open office hours (no appointment needed) take place during term time on Wednesdays from 12 noon to 1 pm in MCS 2027.
 
 If you need to get in touch some other time, please [email
 me](mailto:laura.morgenstern@durham.ac.uk) to arrange a meeting.
